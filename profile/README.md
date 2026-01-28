@@ -25,10 +25,12 @@ npm install @octavus/sdk
 
 ## ✨ Why Octavus?
 
-- **Protocol-Based** — Define agents in clean YAML
-- **Model Flexible** — Switch between Claude, GPT, Gemini without rewrites
-- **Your Infrastructure** — Your tools, your data, your control
-- **Production-Ready** — Stateful sessions, real-time streaming, full observability
+- **Protocol-Based Definition** — Define your agent's personality, tools, and workflows in clean YAML
+- **Tools on Your Infrastructure** — Your tools, your data, your control. Octavus orchestrates while your backend executes
+- **Model Flexibility** — One protocol, any model. Switch between Claude, GPT, or other models without rewriting your agent
+- **Production-Ready Sessions** — Stateful conversations out of the box. Sessions restore on page refresh with full history
+- **Agent Skills** — Extend your agent with knowledge packages following the Agent Skills open standard
+- **Real-Time Streaming** — Built-in SSE streaming with Vercel AI SDK compatibility
      
 ---
 
