@@ -1,10 +1,10 @@
-# Octavus
+<img width="1074" height="357" alt="Screenshot 2026-01-27 at 9 37 39 PM" src="https://github.com/user-attachments/assets/b2f69645-10e0-4e15-b665-0a39d23877d6" />
 
-**Build Agents, Not Infrastructure**
+## About Octavus AI
 
 Define your agent in a protocol. Implement your tools in your backend. We handle everything in between.
 
-[Website](https://octavus.ai) • [Documentation](https://octavus.ai/docs) • [Pricing](https://octavus.ai/pricing)
+[Website](https://octavus.ai) • [Documentation](https://octavus.ai/docs)
 
 ---
 
@@ -26,10 +26,10 @@ npm install @octavus/sdk
 ## ✨ Why Octavus?
 
 - **Protocol-Based** — Define agents in clean YAML
-- - **Model Flexible** — Switch between Claude, GPT, Gemini without rewrites
-  - - **Your Infrastructure** — Your tools, your data, your control
-    - - **Production-Ready** — Stateful sessions, real-time streaming, full observability
+- **Model Flexible** — Switch between Claude, GPT, Gemini without rewrites
+- **Your Infrastructure** — Your tools, your data, your control
+- **Production-Ready** — Stateful sessions, real-time streaming, full observability
      
-      - ---
+---
 
-      [**Get Started →**](https://octavus.ai)
+[**Get Started →**](https://octavus.ai)
