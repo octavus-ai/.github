@@ -10,15 +10,39 @@ Define your agent in a protocol. Implement your tools in your backend. We handle
 
 ## 🚀 Get Started
 
+**Client:**
+
 ```bash
-npm install @octavus/sdk
+npm install @octavus/react
 ```
 
-## 📦 Example Projects
+**Server:**
+
+```bash
+npm install @octavus/server-sdk
+```
+
+**CLI (optional):**
+
+```bash
+npm install -D @octavus/cli
+```
+
+## 📦 Packages
+
+| Package | Description |
+|---------|-------------|
+| [@octavus/react](https://www.npmjs.com/package/@octavus/react) | React hooks and components |
+| [@octavus/server-sdk](https://www.npmjs.com/package/@octavus/server-sdk) | Server SDK for backend integration |
+| [@octavus/client-sdk](https://www.npmjs.com/package/@octavus/client-sdk) | Framework-agnostic client SDK |
+| [@octavus/cli](https://www.npmjs.com/package/@octavus/cli) | CLI for agent management |
+
+Source: [js-sdk](https://github.com/octavus-ai/js-sdk)
+
+## 📚 Examples
 
 | Project | Description |
 |---------|-------------|
-| [js-sdk](https://github.com/octavus-ai/js-sdk) | Official JavaScript/TypeScript SDK |
 | [example-nextjs](https://github.com/octavus-ai/example-nextjs) | Next.js integration example |
 | [example-express-websocket](https://github.com/octavus-ai/example-express-websocket) | Express + WebSocket example |
 | [octavus-browser-use-starter](https://github.com/octavus-ai/octavus-browser-use-starter) | Browser automation starter |
