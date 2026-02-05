@@ -37,7 +37,7 @@ npm install -D @octavus/cli
 | [@octavus/client-sdk](https://www.npmjs.com/package/@octavus/client-sdk) | Framework-agnostic client SDK |
 | [@octavus/cli](https://www.npmjs.com/package/@octavus/cli) | CLI for agent management |
 
-Source: [js-sdk](https://github.com/octavus-ai/js-sdk)
+Source: [agent-sdk](https://github.com/octavus-ai/agent-sdk)
 
 ## 📚 Examples
 
